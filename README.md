@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Aughey et al., "CATaDa reveals global remodelling of chromatin accessibility during stem cell differentiation in vivo". eLife, 2018. http://dx.doi.org/10.7554/eLife.32341
+
 # Peak_Calling_for_CATaDa
 Calls peaks and genes from CATaDa data from Drosophila
 
